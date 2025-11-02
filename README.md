@@ -19,52 +19,68 @@
 
 ## 🛠️ Tech Stack
 
-<p style="display:flex; justify-content:center; flex-wrap:wrap;">
+<style>
+  .tech-stack {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
 
-<span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
+  .tech-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .tech-item img {
+    width: 50px;
+    margin-bottom: 5px;
+  }
+</style>
+
+<div class="tech-stack">
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <span>Flutter</span>
-  </span>
+  </div>
 
-  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" />
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
     <span>Dart</span>
-  </span>
+  </div>
 
-<span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <span>HTML5</span>
-  </span>
+  </div>
 
-<span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <span>Tailwind CSS</span>
-  </span>
+  </div>
 
-<span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <span>MySQL</span>
-  </span>
+  </div>
 
-<span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <span>Git</span>
-  </span>
+  </div>
 
-<span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <span>GitHub</span>
-  </span>
+  </div>
 
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <span>Python</span>
+  </div>
+</div>
 
-
-  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-  <span>Python</span>
-</span>
-
-
-</p>
 
 ---
 
