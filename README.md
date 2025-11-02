@@ -31,7 +31,7 @@ I focus on delivering elegant design, smooth performance, and a great user exper
     <span>HTML5</span>
   </span>
   <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
     <span>Tailwind CSS</span>
   </span>
   <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
