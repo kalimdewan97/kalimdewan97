@@ -15,7 +15,7 @@
 <!-- devider -->
 
 <hr style="height: 2px; border: none; background-color: #ccc; margin: 2px 0;">
-<!-- box-shadow: rgb(0, 221, 255) 0px 2px 4px 0px, rgb(70, 138, 255) 0px 2px 16px 0px -->
+
 <br><br><br>
 
 <div>
@@ -49,36 +49,36 @@
 
 <div style="display:flex; justify-content:center; align-items: center; text-align: center; flex-wrap:wrap;">
 
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px;">
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
       <span style="margin: 10px;">Flutter</span>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px;">
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" />
       <span style="margin: 10px;">Dart</span>
    </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px;">
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
       <span style="margin: 10px;">HTML5</span>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px;">
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
       <span style="margin: 10px;">Tailwind CSS</span>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px;">
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
       <span style="margin: 10px;">MySQL</span>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px;">
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
       <span style="margin: 10px;">GitHub</span>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px;">
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
     <span style="margin: 10px;">Python</span>
   </div>
@@ -92,22 +92,22 @@
 <span style="font-size: 30px; font-weight: 900;"> 🌐 Connect With Me :</span>
 
 <div style="display:flex; justify-content:center; align-items: center; text-align: center; flex-wrap:wrap;">
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px;">
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="50" />
       <span style="margin: 10px;">GitHub</span>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px;">
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
           <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="50" />
       <span style="margin: 10px;">facebook</span>
    </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px;">
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg" width="50" />
       <span style="margin: 10px;">Adobe Illustrator</span>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px;">
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" width="50" />
       <span style="margin: 10px;">Adobe Photoshop</span>
   </div>
