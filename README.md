@@ -4,13 +4,6 @@
 #  Hi! I'm Md. Kalim Ullah
 ###  Mobile App Developer with Flutter
 
-- 🔭 I’m currently working on **Life Insurance Company**  
-- 🌱 I’m currently learning **Python Programming**  
-- 👯 I’m looking to collaborate on **Git & GitHub**  
-- 💬 Ask me about **Mobile App Development**
-
-
-
 ---
 
 <span> I’m a Mobile Apps Developer specializing in Flutter, dedicated to building fast, clean, and user-friendly applications for Android and iOS. I focus on delivering elegant design, smooth performance, and a great user experience in every project.</span>
