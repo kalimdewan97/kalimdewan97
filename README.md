@@ -67,16 +67,14 @@ Flutter &nbsp; | &nbsp; Dart &nbsp; | &nbsp; HTML5 &nbsp; | &nbsp; Tailwind CSS 
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" title="Flutter"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" title="Dart"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="Tailwind CSS"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+<a href="https://github.com/kalimdewan97"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="50" title="GitHub"/>&nbsp;&nbsp;
+<a href="https://www.facebook.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="50" title="Facebook"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg" width="50" title="Adobe Illustrato"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" width="50" title="Adobe Photoshop"/>
+
 
 <p>
-Flutter &nbsp; | &nbsp; Dart &nbsp; | &nbsp; HTML5 &nbsp; | &nbsp; Tailwind CSS &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; GitHub &nbsp; | &nbsp; Python
+GitHub &nbsp; | &nbsp; Facebook &nbsp; | &nbsp; Adobe Illustrato &nbsp; | &nbsp; Adobe Photoshop
 </p>
 
 </div>
