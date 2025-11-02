@@ -17,7 +17,7 @@ I focus on delivering elegant design, smooth performance, and a great user exper
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p align="spacebetween">
   <span style="display:inline-block; margin:10px; text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" /><br>Flutter
   </span>
@@ -48,7 +48,7 @@ I focus on delivering elegant design, smooth performance, and a great user exper
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="spacebetween">
   <span style="display:inline-block; margin:10px; text-align:center;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="40" /><br>GitHub
   </span>
@@ -70,7 +70,7 @@ I focus on delivering elegant design, smooth performance, and a great user exper
 
 ## 🏅 GitHub Badges
 
-<p align="center">
+<p align="spacebetween">
   <span style="display:inline-block; margin:10px; text-align:center;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="45" /><br>Arctic Code Vault
   </span>
