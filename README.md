@@ -80,23 +80,18 @@
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap;">
   <span style="display:flex; flex-direction:column; align-items:center;  margin:10px;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="45" />
-    <span>Arctic Code Vault</span>
   </span>
   <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="45" />
-    <span>Developer</span>
   </span>
   <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="45" />
-    <span>Pro User</span>
   </span>
   <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="40" />
-    <span>Star</span>
   </span>
   <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="40" />
-    <span>Sponsor</span>
   </span>
 </p>
 
