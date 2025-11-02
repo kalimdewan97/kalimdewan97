@@ -20,38 +20,49 @@
 ## 🛠️ Tech Stack
 
 <p style="display:flex; justify-content:center; flex-wrap:wrap;">
-<span style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
+
+<span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
     <span>Flutter</span>
   </span>
-  <span style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
+
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" />
     <span>Dart</span>
   </span>
-<span style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
+
+<span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
     <span>HTML5</span>
   </span>
-<span style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
+
+<span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
     <span>Tailwind CSS</span>
   </span>
-<span style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
+
+<span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
     <span>MySQL</span>
   </span>
- <span style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
+
+<span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
     <span>Git</span>
   </span>
- <span style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
+
+<span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
     <span>GitHub</span>
   </span>
-<span style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-    <span>Python</span>
+
+
+
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <span>Python</span>
 </span>
+
 
 </p>
 
