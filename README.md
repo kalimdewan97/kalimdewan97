@@ -98,10 +98,6 @@ I focus on delivering elegant design, smooth performance, and a great user exper
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalimdewan97&show_icons=true&count_private=true)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/kalimdewan97/contributions?format=svg&private=true)
-
-![GitHub metrics](https://metrics.lecoq.io/kalimdewan97)
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kalimdewan97)
 
 ---
