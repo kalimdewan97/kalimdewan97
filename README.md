@@ -32,7 +32,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center" style="text-align:center; margin-top:10px;">
+<div align="center; style="text-align:center; margin-top:10px;">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" title="Flutter"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" title="Dart"/>&nbsp;&nbsp;
