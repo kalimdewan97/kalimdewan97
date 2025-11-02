@@ -59,23 +59,15 @@ I focus on delivering elegant design, smooth performance, and a great user exper
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap;">
   <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="40" />
-    <span>GitHub</span>
   </span>
   <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="40" />
-    <span>Facebook</span>
-  </span>
-  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css.svg" width="40" />
-    <span>Tailwind CSS</span>
   </span>
   <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg" width="40" />
-    <span>Illustrator</span>
   </span>
   <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" width="40" />
-    <span>Photoshop</span>
   </span>
 </p>
 
