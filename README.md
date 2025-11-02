@@ -19,40 +19,42 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap;">
-  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
+<p align ="center" style="display:flex; justify-content:center; flex-wrap:wrap;">
+  <span style="align-items:center; text-align:center; justify-content: center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
-    <span style="margin-top:5px;">Flutter</span>
+    <span>Flutter</span>
   </span>
-  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
+  <span style="align-items:center; text-align:center; justify-content: center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" />
-    <span style="margin-top:5px;">Dart</span>
+    <span>Dart</span>
   </span>
-  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
+  <span style="align-items:center; text-align:center; justify-content: center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-    <span style="margin-top:5px;">HTML5</span>
+    <span>HTML5</span>
   </span>
-  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
+  <span style="align-items:center; text-align:center; justify-content: center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-    <span style="margin-top:5px;">Tailwind CSS</span>
+    <span>Tailwind CSS</span>
   </span>
-  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
+  <span style="align-items:center; text-align:center; justify-content: center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
-    <span style="margin-top:5px;">MySQL</span>
+    <span>MySQL</span>
   </span>
-  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
+  <span style="align-items:center; text-align:center; justify-content: center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-    <span style="margin-top:5px;">Git</span>
+    <span>Git</span>
   </span>
-  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
+  <span style="align-items:center; text-align:center; justify-content: center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-    <span style="margin-top:5px;">GitHub</span>
+    <span>GitHub</span>
   </span>
-  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
+  <span style="align-items:center; text-align:center; justify-content: center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-    <span style="margin-top:5px;">Python</span>
+    <span>Python</span>
   </span>
 </p>
+
+---
 
 
 
