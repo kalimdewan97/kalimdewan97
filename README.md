@@ -17,29 +17,29 @@ I focus on delivering elegant design, smooth performance, and a great user exper
 
 ## 🛠️ Tech Stack
 
-<p align="spacebetween">
-  <span style="display:inline-block; margin:10px; text-align:center;">
+<p align="center">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" /><br>Flutter
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" /><br>Dart
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /><br>HTML5
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" /><br>Tailwind CSS
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /><br>MySQL
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /><br>Git
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /><br>GitHub
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /><br>Python
   </span>
 </p>
@@ -48,20 +48,20 @@ I focus on delivering elegant design, smooth performance, and a great user exper
 
 ## 🌐 Connect With Me
 
-<p align="spacebetween">
-  <span style="display:inline-block; margin:10px; text-align:center;">
+<p align="center">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="40" /><br>GitHub
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="40" /><br>Facebook
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg" width="40" /><br>Tailwind CSS
+  <span style="display:inline-block; margin:15px; text-align:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css.svg" width="40" /><br>Tailwind CSS
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg" width="40" /><br>Illustrator
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" width="40" /><br>Photoshop
   </span>
 </p>
@@ -70,20 +70,20 @@ I focus on delivering elegant design, smooth performance, and a great user exper
 
 ## 🏅 GitHub Badges
 
-<p align="spacebetween">
-  <span style="display:inline-block; margin:10px; text-align:center;">
+<p align="center">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="45" /><br>Arctic Code Vault
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="45" /><br>Developer
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="45" /><br>Pro User
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="40" /><br>Star
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="40" /><br>Sponsor
   </span>
 </p>
