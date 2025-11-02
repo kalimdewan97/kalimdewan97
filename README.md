@@ -18,37 +18,37 @@ I focus on delivering elegant design, smooth performance, and a great user exper
 ## 🛠️ Tech Stack
 
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap;">
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
-    <span style="margin-left:8px;">Flutter</span>
+    <span>Flutter</span>
   </span>
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" />
-    <span style="margin-left:8px;">Dart</span>
+    <span>Dart</span>
   </span>
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-    <span style="margin-left:8px;">HTML5</span>
+    <span>HTML5</span>
   </span>
-  <span style="display:flex; align-items:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" />
-    <span style="margin-left:8px;">Tailwind CSS</span>
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css.svg" width="50" />
+    <span>Tailwind CSS</span>
   </span>
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
-    <span style="margin-left:8px;">MySQL</span>
+    <span>MySQL</span>
   </span>
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-    <span style="margin-left:8px;">Git</span>
+    <span>Git</span>
   </span>
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-    <span style="margin-left:8px;">GitHub</span>
+    <span>GitHub</span>
   </span>
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-    <span style="margin-left:8px;">Python</span>
+    <span>Python</span>
   </span>
 </p>
 
@@ -57,25 +57,25 @@ I focus on delivering elegant design, smooth performance, and a great user exper
 ## 🌐 Connect With Me
 
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap;">
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="40" />
-    <span style="margin-left:6px;">GitHub</span>
+    <span>GitHub</span>
   </span>
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="40" />
-    <span style="margin-left:6px;">Facebook</span>
+    <span>Facebook</span>
   </span>
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css.svg" width="40" />
-    <span style="margin-left:6px;">Tailwind CSS</span>
+    <span>Tailwind CSS</span>
   </span>
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg" width="40" />
-    <span style="margin-left:6px;">Illustrator</span>
+    <span>Illustrator</span>
   </span>
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" width="40" />
-    <span style="margin-left:6px;">Photoshop</span>
+    <span>Photoshop</span>
   </span>
 </p>
 
@@ -84,27 +84,28 @@ I focus on delivering elegant design, smooth performance, and a great user exper
 ## 🏅 GitHub Badges
 
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap;">
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="45" />
-    <span style="margin-left:6px;">Arctic Code Vault</span>
+    <span>Arctic Code Vault</span>
   </span>
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="45" />
-    <span style="margin-left:6px;">Developer</span>
+    <span>Developer</span>
   </span>
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="45" />
-    <span style="margin-left:6px;">Pro User</span>
+    <span>Pro User</span>
   </span>
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="40" />
-    <span style="margin-left:6px;">Star</span>
+    <span>Star</span>
   </span>
-  <span style="display:flex; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="40" />
-    <span style="margin-left:6px;">Sponsor</span>
+    <span>Sponsor</span>
   </span>
 </p>
+
 
 
 ---
