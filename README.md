@@ -92,29 +92,17 @@ I focus on delivering elegant design, smooth performance, and a great user exper
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=kalimdewan97" width="120" /><br>Trophy
-  </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalimdewan97" width="120" /><br>Top Languages
-  </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kalimdewan97&show_icons=true&count_private=true" width="120" /><br>Stats
-  </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://streak-stats.demolab.com/?user=kalimdewan97" width="120" /><br>Streak
-  </span>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=kalimdewan97)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimdewan97)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalimdewan97&show_icons=true&count_private=true)
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/kalimdewan97/contributions?format=svg&private=true)
 
 ![GitHub metrics](https://metrics.lecoq.io/kalimdewan97)
 
-<h3 align="center">⭐ “Code. Create. Improve.”</h3>
-<p align="center">💡 Building meaningful mobile experiences with Flutter.</p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=kalimdewan97)
 
 ---
 
