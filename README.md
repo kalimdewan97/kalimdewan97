@@ -32,7 +32,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="center" style="text-align:center; margin-top:10px;">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" title="Flutter"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" title="Dart"/>&nbsp;&nbsp;
@@ -42,7 +42,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
 
-<p>
+<p style="text-align:center; margin-top:10px;">
 Flutter &nbsp; | &nbsp; Dart &nbsp; | &nbsp; HTML5 &nbsp; | &nbsp; Tailwind CSS &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; GitHub &nbsp; | &nbsp; Python
 </p>
 
