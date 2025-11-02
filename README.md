@@ -3,13 +3,12 @@
 </p>
 
 <h1 align="center">Hi! I'm Md. Kalim Ullah</h1>
-<p align="center" style="font-size: 26px;">Mobile App Developer with Flutter</p>
+<p align="center" style="font-size: 40px;">Mobile App Developer with Flutter</p>
 
-<p align="center" style="font-size: 18px; max-width: 800px; margin: auto;">
+<p align="center" style="font-size: 24px; max-width: 800px; margin: auto;">
   I'm a Mobile Apps Developer specializing in Flutter, dedicated to building fast, clean, and user-friendly applications for Android and iOS.
   I focus on delivering elegant design, smooth performance, and a great user experience in every project.
 </p>
-
 
 
 ---
