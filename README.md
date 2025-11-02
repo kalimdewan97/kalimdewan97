@@ -32,7 +32,7 @@
 
 ## 🛠️ Tech Stack
 
-<div style="text-align: center; align-item:center; justify-content:center; margin: 30px 0;">
+<div align: center; style="text-align: center; align-item:center; justify-content:center; margin: 30px 0;">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" title="Flutter"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" title="Dart"/>&nbsp;&nbsp;
