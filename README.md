@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align ="center" style="display:flex; justify-content:center; flex-wrap:wrap;">
+<p style="display:flex; justify-content:center; flex-wrap:wrap;">
   <span style="align-items:center; text-align:center; justify-content: center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
     <span>Flutter</span>
@@ -55,7 +55,6 @@
 </p>
 
 ---
-
 
 
 ---
