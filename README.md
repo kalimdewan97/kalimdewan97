@@ -6,8 +6,7 @@
 I’m a Mobile Apps Developer specializing in Flutter, dedicated to building fast, clean, and user-friendly applications for Android and iOS.  
 I focus on delivering elegant design, smooth performance, and a great user experience in every project.
 
-**Skills:**  
-HTML / CSS / Tailwind CSS / MySQL / Flutter  
+**Skills:** HTML / CSS / Tailwind CSS / MySQL / Flutter  
 
 - 🔭 I’m currently working on **Life Insurance Company**  
 - 🌱 I’m currently learning **Python Programming**  
@@ -16,24 +15,55 @@ HTML / CSS / Tailwind CSS / MySQL / Flutter
 
 ---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" /><br>Flutter
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" /><br>Dart
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /><br>HTML5
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" /><br>Tailwind CSS
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /><br>MySQL
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /><br>Git
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /><br>GitHub
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /><br>Python
+  </span>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/kalimdewan97">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="40" alt="GitHub"/><br>GitHub
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://facebook.com/kalimdewan97">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="40" alt="Facebook"/><br>Facebook
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg" height="40" alt="Tailwind CSS"/><br>Tailwind CSS
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/products/illustrator.html">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg" height="40" alt="Adobe Illustrator"/><br>Illustrator
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" height="40" alt="Adobe Photoshop"/><br>Photoshop
-  </a>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="40" /><br>GitHub
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="40" /><br>Facebook
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg" width="40" /><br>Tailwind CSS
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg" width="40" /><br>Illustrator
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" width="40" /><br>Photoshop
+  </span>
 </p>
 
 ---
@@ -41,21 +71,21 @@ HTML / CSS / Tailwind CSS / MySQL / Flutter
 ## 🏅 GitHub Badges
 
 <p align="center">
-  <a href="https://archiveprogram.github.com/">
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="45" height="45"/><br>Arctic Code Vault
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://docs.github.com/en/developers">
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="45" height="45"/><br>Developer
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/pricing">
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="45" height="45"/><br>Pro User
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://stars.github.com/">
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="40" height="40"/><br>Star
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors">
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="40" height="40"/><br>Sponsor
-  </a>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="45" /><br>Arctic Code Vault
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="45" /><br>Developer
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="45" /><br>Pro User
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="40" /><br>Star
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="40" /><br>Sponsor
+  </span>
 </p>
 
 ---
@@ -73,8 +103,6 @@ HTML / CSS / Tailwind CSS / MySQL / Flutter
 ![GitHub metrics](https://metrics.lecoq.io/kalimdewan97)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kalimdewan97)
-
-
 ---
 
 ### 🎖️ Additional Developer Insights
