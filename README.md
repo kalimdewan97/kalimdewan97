@@ -76,7 +76,7 @@ I focus on delivering elegant design, smooth performance, and a great user exper
 ## 🏅 GitHub Badges
 
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap;">
-  <span style="display:flex; flex-direction:column; align-items:center; margin:10px;">
+  <span style="display:flex; flex-direction:column; align-items:center; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="45" />
     <span>Arctic Code Vault</span>
   </span>
