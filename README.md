@@ -54,10 +54,10 @@ Flutter &nbsp; | &nbsp; Dart &nbsp; | &nbsp; HTML5 &nbsp; | &nbsp; Tailwind CSS 
 
 <div align="center">
 
-<a href="https://github.com/kalimdewan97"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="50"/><br>GitHub</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="50"/><br>Facebook</a>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg" width="50"/><br>Adobe Illustrator&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" width="50"/><br>Adobe Photoshop
+<a href="https://github.com/kalimdewan97"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="50"/>GitHub</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="50"/>Facebook</a>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg" width="50"/>Adobe Illustrator&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" width="50"/>Adobe Photoshop
 
 </div>
 
