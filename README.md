@@ -83,28 +83,41 @@ GitHub &nbsp; | &nbsp; Facebook &nbsp; | &nbsp; Adobe Illustrato &nbsp; | &nbsp;
 ## 📊 GitHub Stats
 
 <p align="center">
-  <b>🏆 GitHub Trophies</b><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kalimdewan97" alt="Trophies" />
-  </a>
+
+<b>🏆 GitHub Trophies</b><br>
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+  <img src="https://github-profile-trophy.vercel.app/?username=kalimdewan97&margin-w=10&margin-h=10" alt="Trophies" />
+</a>
+
 </p>
 
 <p align="center">
-  <b>💻 Top Languages</b><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalimdewan97&layout=compact" alt="Top Languages" />
-  </a>
+
+<b>💻 Top Languages</b><br>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalimdewan97&layout=compact&theme=radical" alt="Top Languages" />
+</a>
+
 </p>
 
 <p align="center">
-  <b>📈 GitHub Stats</b><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kalimdewan97&show_icons=true&count_private=true" alt="GitHub Stats" />
+
+<b>📈 GitHub Stats</b><br>
+<a href="https://github.com/kalimdewan97" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalimdewan97&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+</a>
+
 </p>
 
 <p align="center">
-  <b>🔥 GitHub Streak</b><br>
-  <img src="https://streak-stats.demolab.com/?user=kalimdewan97" alt="GitHub Streak" />
+
+<b>🔥 GitHub Streak</b><br>
+<a href="https://github.com/kalimdewan97" target="_blank">
+  <img src="https://streak-stats.demolab.com/?user=kalimdewan97&theme=radical" alt="GitHub Streak" />
+</a>
+
 </p>
+
 
 ---
 
