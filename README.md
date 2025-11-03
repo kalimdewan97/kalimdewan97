@@ -42,49 +42,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
 
-<p align="center" style="margin-top: 15px; font-weight: 500; color: #555;">
+<!-- <p align="center" style="margin-top: 15px; font-weight: 500; color: #555;">
 Flutter &nbsp; | &nbsp; Dart &nbsp; | &nbsp; HTML5 &nbsp; | &nbsp; Tailwind CSS &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; GitHub &nbsp; | &nbsp; Python
-</p>
+</p> -->
 
 </div>
 
 
 ---
 
-
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <span style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/><br>
-    Flutter
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" title="Dart"/><br>
-    Dart
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/><br>
-    HTML5
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="Tailwind CSS"/><br>
-    Tailwind CSS
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/><br>
-    MySQL
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/><br>
-    GitHub
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/><br>
-    Python
-  </span>
-</p>
 
 
 ## 🌐 Connect With Me
