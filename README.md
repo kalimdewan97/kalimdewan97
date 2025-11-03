@@ -14,7 +14,7 @@
 ---
 
 ## 🧰 Skills
-**HTML | Tailwind CSS | MySQL | Flutter | Dart | Python | GitHub**
+**HTML | Tailwind CSS | MySQL | Dart | Flutter | Python**
 
 ---
 
