@@ -84,22 +84,30 @@ GitHub &nbsp; | &nbsp; Facebook &nbsp; | &nbsp; Adobe Illustrato &nbsp; | &nbsp;
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- Trophies -->
+  <b>🏆 GitHub Trophies</b><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kalimdewan97" alt="Trophies" />
   </a>
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
+  <b>💻 Top Languages</b><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalimdewan97&layout=compact" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
+  <!-- GitHub Stats -->
+  <b>📈 GitHub Stats</b><br>
   <img src="https://github-readme-stats.vercel.app/api?username=kalimdewan97&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
+  <!-- Streak Stats -->
+  <b>🔥 GitHub Streak</b><br>
   <img src="https://streak-stats.demolab.com/?user=kalimdewan97" alt="GitHub Streak" />
 </p>
 
@@ -108,7 +116,12 @@ GitHub &nbsp; | &nbsp; Facebook &nbsp; | &nbsp; Adobe Illustrato &nbsp; | &nbsp;
 ## 🎖️ Additional Developer Insights
 
 <p align="center">
+  <!-- Contributions Graph -->
+  <b>📊 Contributions Overview</b><br>
   <img src="https://api.vaunt.dev/v1/github/entities/kalimdewan97/contributions?format=svg&private=true" alt="Contributions" height="120" /><br><br>
+
+  <!-- Metrics Graph -->
+  <b>📈 Developer Metrics</b><br>
   <img src="https://metrics.lecoq.io/kalimdewan97" alt="Metrics" width="80%" />
 </p>
 
@@ -116,4 +129,3 @@ GitHub &nbsp; | &nbsp; Facebook &nbsp; | &nbsp; Adobe Illustrato &nbsp; | &nbsp;
 
 <h3 align="center">⭐ “Code. Create. Improve.”</h3>
 <p align="center">💡 Building meaningful mobile experiences with Flutter.</p>
-
