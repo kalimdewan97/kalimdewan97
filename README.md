@@ -84,36 +84,36 @@ GitHub &nbsp; | &nbsp; Facebook &nbsp; | &nbsp; Adobe Illustrato &nbsp; | &nbsp;
 
 <p align="center">
 
-<b>🏆 GitHub Trophies</b><br>
+<!-- Trophies -->
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=kalimdewan97&margin-w=10&margin-h=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kalimdewan97&margin-w=15&margin-h=15&theme=tokyonight" alt="Trophies" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </a>
 
 </p>
 
 <p align="center">
 
-<b>💻 Top Languages</b><br>
+<!-- Top Languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalimdewan97&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalimdewan97&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </a>
 
 </p>
 
 <p align="center">
 
-<b>📈 GitHub Stats</b><br>
+<!-- GitHub Stats -->
 <a href="https://github.com/kalimdewan97" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalimdewan97&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kalimdewan97&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </a>
 
 </p>
 
 <p align="center">
 
-<b>🔥 GitHub Streak</b><br>
+<!-- GitHub Streak -->
 <a href="https://github.com/kalimdewan97" target="_blank">
-  <img src="https://streak-stats.demolab.com/?user=kalimdewan97&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kalimdewan97&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </a>
 
 </p>
