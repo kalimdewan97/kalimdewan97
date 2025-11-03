@@ -52,19 +52,18 @@ Flutter &nbsp; | &nbsp; Dart &nbsp; | &nbsp; HTML5 &nbsp; | &nbsp; Tailwind CSS 
 ---
 
 
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/kalimdewan97"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="50" title="GitHub"/>&nbsp;&nbsp;
 <a href="https://www.facebook.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="50" title="Facebook"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg" width="50" title="Adobe Illustrato"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg" width="50" title="Adobe Illustrator"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" width="50" title="Adobe Photoshop"/>
 
-<p>
+<!-- <p>
 GitHub &nbsp; | &nbsp; Facebook &nbsp; | &nbsp; Adobe Illustrato &nbsp; | &nbsp; Adobe Photoshop
-</p>
+</p> -->
 
 </div>
 
