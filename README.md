@@ -83,27 +83,37 @@ GitHub &nbsp; | &nbsp; Facebook &nbsp; | &nbsp; Adobe Illustrato &nbsp; | &nbsp;
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kalimdewan97" alt="Trophies" />
+  </a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kalimdewan97)](https://github.com/ryo-ma/github-profile-trophy)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimdewan97)](https://github.com/anuraghazra/github-readme-stats)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalimdewan97&show_icons=true&count_private=true)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=kalimdewan97)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalimdewan97&layout=compact" alt="Top Languages" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalimdewan97&show_icons=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kalimdewan97" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🎖️ Additional Developer Insights
 
-<div align="center">
-
-<img src="https://api.vaunt.dev/v1/github/entities/kalimdewan97/contributions?format=svg&private=true" height="120" /><br>
-<img src="https://metrics.lecoq.io/kalimdewan97" width="80%"/>
-
-</div>
+<p align="center">
+  <img src="https://api.vaunt.dev/v1/github/entities/kalimdewan97/contributions?format=svg&private=true" alt="Contributions" height="120" /><br><br>
+  <img src="https://metrics.lecoq.io/kalimdewan97" alt="Metrics" width="80%" />
+</p>
 
 ---
 
 <h3 align="center">⭐ “Code. Create. Improve.”</h3>
 <p align="center">💡 Building meaningful mobile experiences with Flutter.</p>
+
