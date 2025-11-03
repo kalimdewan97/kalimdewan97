@@ -42,7 +42,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
 
-<p align="center" style="margin-top: 15px;">
+<p align="center" style="margin-top: 15px; font-weight: 500; color: #555;">
 Flutter &nbsp; | &nbsp; Dart &nbsp; | &nbsp; HTML5 &nbsp; | &nbsp; Tailwind CSS &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; GitHub &nbsp; | &nbsp; Python
 </p>
 
