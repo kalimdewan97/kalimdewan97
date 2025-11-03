@@ -66,25 +66,23 @@ GitHub &nbsp; | &nbsp; Facebook &nbsp; | &nbsp; Adobe Illustrato &nbsp; | &nbsp;
 </p> -->
 
 </div>
+---
 
 ## 🏅 GitHub Badges
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="50" />&nbsp;
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="50" />&nbsp;
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="50" />&nbsp;
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="50" />&nbsp;
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="50" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="50" alt="AC Badge" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="50" alt="Dev Badge" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="50" alt="Pro Badge" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="50" alt="Star Badge" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="50" alt="Sponsor Badge" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Trophies -->
   <b>🏆 GitHub Trophies</b><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kalimdewan97" alt="Trophies" />
@@ -92,7 +90,6 @@ GitHub &nbsp; | &nbsp; Facebook &nbsp; | &nbsp; Adobe Illustrato &nbsp; | &nbsp;
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
   <b>💻 Top Languages</b><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalimdewan97&layout=compact" alt="Top Languages" />
@@ -100,13 +97,11 @@ GitHub &nbsp; | &nbsp; Facebook &nbsp; | &nbsp; Adobe Illustrato &nbsp; | &nbsp;
 </p>
 
 <p align="center">
-  <!-- GitHub Stats -->
   <b>📈 GitHub Stats</b><br>
   <img src="https://github-readme-stats.vercel.app/api?username=kalimdewan97&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
   <b>🔥 GitHub Streak</b><br>
   <img src="https://streak-stats.demolab.com/?user=kalimdewan97" alt="GitHub Streak" />
 </p>
@@ -116,11 +111,9 @@ GitHub &nbsp; | &nbsp; Facebook &nbsp; | &nbsp; Adobe Illustrato &nbsp; | &nbsp;
 ## 🎖️ Additional Developer Insights
 
 <p align="center">
-  <!-- Contributions Graph -->
   <b>📊 Contributions Overview</b><br>
   <img src="https://api.vaunt.dev/v1/github/entities/kalimdewan97/contributions?format=svg&private=true" alt="Contributions" height="120" /><br><br>
 
-  <!-- Metrics Graph -->
   <b>📈 Developer Metrics</b><br>
   <img src="https://metrics.lecoq.io/kalimdewan97" alt="Metrics" width="80%" />
 </p>
