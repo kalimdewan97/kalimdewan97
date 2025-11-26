@@ -24,7 +24,7 @@
 ---
 
 ## 🌟 Tech Stack
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px; margin-bottom:25px;">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:space-between; gap:25px; margin-bottom:25px; text-decoration: none;">
 
 <a href="#" title="Flutter" style="transition: transform 0.3s ease, filter 0.3s ease;">
   <img src="https://skillicons.dev/icons?i=flutter" height="50" style="transition: transform 0.3s ease, filter 0.3s ease;" />
