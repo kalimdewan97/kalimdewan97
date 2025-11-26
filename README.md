@@ -133,12 +133,14 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 ## 🚀 Contribution Heatmap (Premium)
 <div align="center">
 
-<!-- Fallback to a placeholder image if Vaunt API fails -->
-<img src="https://via.placeholder.com/600x150?text=Contribution+Heatmap+Unavailable" 
-     alt="Contribution Heatmap" 
-     style="border-radius:10px; filter:brightness(0.8); width:100%; max-width:600px;"/>
+<!-- Smooth fallback for contribution heatmap -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalimdewan97&theme=tokyo-night&hide_border=true"
+     alt="Contribution Heatmap"
+     style="border-radius:15px; filter:brightness(0.85); width:100%; max-width:700px; box-shadow: 0 4px 15px rgba(0,0,0,0.5); transition: transform 0.3s ease;"
+     onerror="this.src='https://via.placeholder.com/700x150?text=Contribution+Heatmap+Unavailable'; this.style.filter='brightness(0.8)';" />
 
 </div>
+
 
 
 ---
