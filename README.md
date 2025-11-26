@@ -3,15 +3,20 @@
 
 
 <!-- PREMIUM DARK MODE GITHUB PROFILE -->
-<h1 align="left" style="font-weight:700; font-size:40px;">✨ Hi, I'm <span style="color:#00E5FF">Md. Kalim Ullah</span> ✨</h1>
+<h1 align="left" style="font-weight:700; font-size:40px;">Hi, I'm <span style="color:#00E5FF">Md. Kalim Ullah</span></h1>
 
-<h3 align="left">🚀 Mobile App Developer | Flutter Specialist</h3>
+<h3 align="left"> Mobile App Developer | Flutter Specialist</h3>
 
 <p align="left">
   I build fast, clean, and beautiful mobile applications using <b>Flutter</b> for both Android & iOS.  
   Passionate about elegant UI, smooth performance, and delightful user experiences.  
   Focused on modern design, clean architecture, and pixel-perfect execution.
 </p>
+
+---
+
+# Skills:
+Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 
 ---
 
