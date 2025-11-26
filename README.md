@@ -16,7 +16,7 @@
 ---
 
 # Skills:
-### Flutter || Dart || MySQL || Python || Django || React || HTML || CSS || Tailwind CSS
+### Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 
 ---
 
