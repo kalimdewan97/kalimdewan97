@@ -3,11 +3,11 @@
 
 
 <!-- PREMIUM DARK MODE GITHUB PROFILE -->
-<h1 align="center" style="font-weight:700; font-size:40px;">✨ Hi, I'm <span style="color:#00E5FF">Md. Kalim Ullah</span> ✨</h1>
+<h1 align="left" style="font-weight:700; font-size:40px;">✨ Hi, I'm <span style="color:#00E5FF">Md. Kalim Ullah</span> ✨</h1>
 
-<h3 align="center">🚀 Mobile App Developer | Flutter Specialist</h3>
+<h3 align="left">🚀 Mobile App Developer | Flutter Specialist</h3>
 
-<p align="center">
+<p align="left">
   I build fast, clean, and beautiful mobile applications using <b>Flutter</b> for both Android & iOS.  
   Passionate about elegant UI, smooth performance, and delightful user experiences.  
   Focused on modern design, clean architecture, and pixel-perfect execution.
@@ -19,31 +19,31 @@
 <div align="center">
 
 <a href="#" title="Flutter">
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" style="margin: 20px;" />
 </a>
 <a href="#" title="Dart">
-  <img src="https://skillicons.dev/icons?i=dart" height="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=dart" height="50" style="margin: 20px;" />
 </a>
 <a href="#" title="MySQL">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin: 20px;" />
 </a>
 <a href="#" title="Python">
-  <img src="https://skillicons.dev/icons?i=python" height="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" style="margin: 20px;" />
 </a>
 <a href="#" title="Django">
-  <img src="https://skillicons.dev/icons?i=django" height="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=django" height="50" style="margin: 20px;" />
 </a>
 <a href="#" title="React">
-  <img src="https://skillicons.dev/icons?i=react" height="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" style="margin: 20px;" />
 </a>
 <a href="#" title="HTML">
   <img src="https://skillicons.dev/icons?i=html" height="50" style="margin: 10px;" />
 </a>
 <a href="#" title="CSS">
-  <img src="https://skillicons.dev/icons?i=css" height="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" style="margin: 20px;" />
 </a>
 <a href="#" title="Tailwind CSS">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" style="margin: 20px;" />
 </a>
 
 </div>
