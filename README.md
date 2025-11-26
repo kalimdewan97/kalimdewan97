@@ -16,37 +16,56 @@
 ---
 
 ## 🌟 Tech Stack
-<div align="center">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; max-width: 700px; margin: auto;">
 
+<!-- Flutter -->
 <a href="#" title="Flutter">
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" />
 </a>
+
+<!-- Dart -->
 <a href="#" title="Dart">
-  <img src="https://skillicons.dev/icons?i=dart" height="50" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=dart" height="50" />
 </a>
+
+<!-- MySQL -->
 <a href="#" title="MySQL">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
 </a>
+
+<!-- Python -->
 <a href="#" title="Python">
-  <img src="https://skillicons.dev/icons?i=python" height="50" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
 </a>
+
+<!-- Django -->
 <a href="#" title="Django">
-  <img src="https://skillicons.dev/icons?i=django" height="50" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=django" height="50" />
 </a>
+
+<!-- React -->
 <a href="#" title="React">
-  <img src="https://skillicons.dev/icons?i=react" height="50" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" />
 </a>
+
+<!-- HTML -->
 <a href="#" title="HTML">
-  <img src="https://skillicons.dev/icons?i=html" height="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" />
 </a>
+
+<!-- CSS -->
 <a href="#" title="CSS">
-  <img src="https://skillicons.dev/icons?i=css" height="50" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" />
 </a>
+
+<!-- Tailwind CSS -->
 <a href="#" title="Tailwind CSS">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
 </a>
 
 </div>
+
+
 
 
 ---
