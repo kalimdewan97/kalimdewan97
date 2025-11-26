@@ -3,65 +3,65 @@
 
 
 <!-- PREMIUM DARK MODE GITHUB PROFILE -->
-<h1 align="left" style="font-weight:700; font-size:40px;">✨ Hi, I'm <span style="color:#00E5FF">Md. Kalim Ullah</span> ✨</h1>
 
-<h3 align="left">🚀 Mobile App Developer | Flutter Specialist</h3>
+<h1 align="center" style="font-weight:700; font-size:40px; color:#00E5FF;">✨ Hi, I'm Md. Kalim Ullah ✨</h1>
 
-<p align="left">
-  I build fast, clean, and beautiful mobile applications using <b>Flutter</b> for both Android & iOS.  
-  Passionate about elegant UI, smooth performance, and delightful user experiences.  
+<h3 align="center" style="color:#ffffff;">🚀 Mobile App Developer | Flutter Specialist</h3>
+
+<p align="center" style="color:#bbbbbb;">
+  I build fast, clean, and beautiful mobile applications using <b>Flutter</b> for both Android & iOS.<br>
+  Passionate about elegant UI, smooth performance, and delightful user experiences.<br>
   Focused on modern design, clean architecture, and pixel-perfect execution.
 </p>
 
 ---
 
 ## 🌟 Tech Stack
-<div align="center" >
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin-bottom: 20px;">
 
 <!-- Flutter -->
 <a href="#" title="Flutter">
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" style="px: 20px;" />
-  <!-- margin: 20px on all sides (top, bottom, left, right) -->
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" />
 </a>
 
 <!-- Dart -->
 <a href="#" title="Dart">
-  <img src="https://skillicons.dev/icons?i=dart" height="50" style="px: 20px;" />
+  <img src="https://skillicons.dev/icons?i=dart" height="50" />
 </a>
 
 <!-- MySQL -->
 <a href="#" title="MySQL">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" style="px: 20px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
 </a>
 
 <!-- Python -->
 <a href="#" title="Python">
-  <img src="https://skillicons.dev/icons?i=python" height="50" style="px: 20px;" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
 </a>
 
 <!-- Django -->
 <a href="#" title="Django">
-  <img src="https://skillicons.dev/icons?i=django" height="50" style="px: 20px;" />
+  <img src="https://skillicons.dev/icons?i=django" height="50" />
 </a>
 
 <!-- React -->
 <a href="#" title="React">
-  <img src="https://skillicons.dev/icons?i=react" height="50" style="px: 20px;" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" />
 </a>
 
 <!-- HTML -->
 <a href="#" title="HTML">
-  <img src="https://skillicons.dev/icons?i=html" height="50" style="px: 20px;" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" />
 </a>
 
 <!-- CSS -->
 <a href="#" title="CSS">
-  <img src="https://skillicons.dev/icons?i=css" height="50" style="px: 20px;" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" />
 </a>
 
 <!-- Tailwind CSS -->
 <a href="#" title="Tailwind CSS">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" style="px: 20px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
 </a>
 
 </div>
@@ -77,24 +77,26 @@
 ---
 
 ## 📬 Connect With Me
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 30px; margin-bottom: 20px;">
 
-<a href="https://github.com/kalimdewan97">
-<img src="https://skillicons.dev/icons?i=github" height="50" title="GitHub" />
+<a href="https://github.com/kalimdewan97" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
-<a href="https://www.linkedin.com/in/dewanporash97/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" title="LinkedIn" />
+
+<a href="https://www.linkedin.com/in/dewanporash97/" title="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
-<a href="https://www.facebook.com/dewanporash97">
-<a href="https://www.facebook.com/dewanporash97">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_(2019).png" height="50" title="Facebook" />
+
+<a href="https://www.facebook.com/dewanporash97" title="Facebook">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_(2019).png" height="50" />
 </a>
+
 </div>
 
 ---
 
 ## 🏆 Animated Badges
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
 
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="50" height="50" />
@@ -108,66 +110,52 @@
 
 ## 🏅 GitHub Trophies
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kalimdewan97&theme=tokyonight&no-bg=true&margin-w=10)
-
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=kalimdewan97&theme=tokyonight&no-bg=true&margin-w=10)
 </div>
 
 ---
 
 ## 📊 Top Languages
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimdewan97&layout=compact&theme=tokyonight)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimdewan97&layout=compact&theme=tokyonight)
 </div>
 
 ---
 
 ## 📈 GitHub Stats
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalimdewan97&show_icons=true&theme=tokyonight&count_private=true)
-
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalimdewan97&show_icons=true&theme=tokyonight&count_private=true)
 </div>
 
 ---
 
 ## 🔥 Streak Stats
 <div align="center">
-
-![GitHub streak](https://streak-stats.demolab.com?user=kalimdewan97&theme=tokyonight-duo)
-
+  ![GitHub streak](https://streak-stats.demolab.com?user=kalimdewan97&theme=tokyonight-duo)
 </div>
 
 ---
 
 ## 🟣 Contribution Graph (Dark Neon)
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalimdewan97&theme=tokyo-night" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalimdewan97&theme=tokyo-night" />
 </div>
 
 ---
 
 ## 🚀 Contribution Heatmap (Premium)
 <div align="center">
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/kalimdewan97/contributions?format=svg&private=true)
-
+  ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/kalimdewan97/contributions?format=svg&private=true)
 </div>
 
 ---
 
 ## 🌌 Metrics (Dark Mode)
 <div align="center">
-
-![Metrics](https://metrics.lecoq.io/kalimdewan97?template=classic&config.timezone=Asia/Dhaka)
-
+  ![Metrics](https://metrics.lecoq.io/kalimdewan97?template=classic&config.timezone=Asia/Dhaka)
 </div>
 
 ---
 
-<h2 align="center">✨ Thanks for Visiting My Profile ✨</h2>
-<h3 align="center">⭐ Don't forget to ⭐ my repositories!</h3>
+<h2 align="center" style="color:#00E5FF;">✨ Thanks for Visiting My Profile ✨</h2>
+<h3 align="center" style="color:#bbbbbb;">⭐ Don't forget to ⭐ my repositories!</h3>
