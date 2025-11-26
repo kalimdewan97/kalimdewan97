@@ -110,18 +110,11 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 ---
 
 ## 📈 GitHub Stats
-<div align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalimdewan97&show_icons=true&theme=tokyonight&count_private=true)
-</div>
-
----
-
-## 🔥 Streak Stats
 <div align="center" style="margin-bottom:30px;">
 
-<!-- Smooth and error-safe Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=kalimdewan97&theme=tokyonight-duo&hide_border=true"
-     alt="GitHub Streak"
+<!-- Smooth and error-safe GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=kalimdewan97&show_icons=true&theme=tokyonight&count_private=true"
+     alt="GitHub Stats"
      style="
         border-radius:20px;
         filter: brightness(0.85);
@@ -131,18 +124,16 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
         transition: transform 0.3s ease, filter 0.3s ease;
         cursor: pointer;
      "
-     onerror="this.onerror=null; this.src='https://via.placeholder.com/720x160?text=Streak+Stats+Unavailable'; this.style.filter='brightness(0.8)';"
+     onerror="this.onerror=null; this.src='https://via.placeholder.com/720x300?text=GitHub+Stats+Unavailable'; this.style.filter='brightness(0.8)';"
      onmouseover="this.style.transform='scale(1.03)'; this.style.filter='brightness(0.95)';"
      onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(0.85)';"
 />
 
-<p style="color:#bbbbbb; font-size:0.9rem; margin-top:5px;">Hover to see a subtle zoom effect ✨</p>
-
 </div>
 
 
-
 ---
+
 
 ## 🚀 Contribution Heatmap
 <div align="center" style="margin-bottom:30px;">
