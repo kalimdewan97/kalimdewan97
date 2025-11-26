@@ -16,58 +16,55 @@
 ---
 
 ## 🌟 Tech Stack
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; max-width: 700px; margin: auto;">
+<div align="center" >
 
 <!-- Flutter -->
 <a href="#" title="Flutter">
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" style="px: 20px;" />
+  <!-- margin: 20px on all sides (top, bottom, left, right) -->
 </a>
 
 <!-- Dart -->
 <a href="#" title="Dart">
-  <img src="https://skillicons.dev/icons?i=dart" height="50" />
+  <img src="https://skillicons.dev/icons?i=dart" height="50" style="px: 20px;" />
 </a>
 
 <!-- MySQL -->
 <a href="#" title="MySQL">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" style="px: 20px;" />
 </a>
 
 <!-- Python -->
 <a href="#" title="Python">
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" style="px: 20px;" />
 </a>
 
 <!-- Django -->
 <a href="#" title="Django">
-  <img src="https://skillicons.dev/icons?i=django" height="50" />
+  <img src="https://skillicons.dev/icons?i=django" height="50" style="px: 20px;" />
 </a>
 
 <!-- React -->
 <a href="#" title="React">
-  <img src="https://skillicons.dev/icons?i=react" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" style="px: 20px;" />
 </a>
 
 <!-- HTML -->
 <a href="#" title="HTML">
-  <img src="https://skillicons.dev/icons?i=html" height="50" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" style="px: 20px;" />
 </a>
 
 <!-- CSS -->
 <a href="#" title="CSS">
-  <img src="https://skillicons.dev/icons?i=css" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" style="px: 20px;" />
 </a>
 
 <!-- Tailwind CSS -->
 <a href="#" title="Tailwind CSS">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" style="px: 20px;" />
 </a>
 
 </div>
-
-
-
-
 ---
 
 ## 🔥 About Me
