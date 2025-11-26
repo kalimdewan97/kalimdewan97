@@ -17,6 +17,7 @@
 
 ## 🌟 Skills
 <p align="justify" style="color:#ffffff;">
+  
 ### Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 </p>
 
