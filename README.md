@@ -123,33 +123,7 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 
 ---
 
-## 🟣 Contribution Graph (Dark Neon)
-<div align="center" style="margin-bottom:30px;">
-
-<!-- Smooth, smart contribution graph with hover effect -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalimdewan97&theme=tokyo-night&hide_border=true"
-     alt="Contribution Graph"
-     style="
-        border-radius:20px;
-        filter: brightness(0.85);
-        width:100%;
-        max-width:720px;
-        box-shadow: 0 8px 20px rgba(0,0,0,0.6);
-        transition: transform 0.3s ease, filter 0.3s ease;
-        cursor: pointer;
-     "
-     onmouseover="this.style.transform='scale(1.03)'; this.style.filter='brightness(0.95)';"
-     onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(0.85)';"
-     onerror="this.src='https://via.placeholder.com/720x160?text=Contribution+Graph+Unavailable'; this.style.filter='brightness(0.8)';"
- />
-
-
-</div>
-
-
----
-
-## 🚀 Contribution Heatmap (Premium)
+## 🚀 Contribution Heatmap
 <div align="center" style="margin-bottom:30px;">
 
 <!-- Smooth, smart heatmap with hover effect and fallback -->
