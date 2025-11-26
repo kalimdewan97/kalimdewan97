@@ -121,11 +121,25 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 ---
 
 ## 📊 Top Languages
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimdewan97&layout=compact&theme=tokyonight)
+<div align="center" style="margin-bottom:30px;">
+
+<!-- Smooth Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalimdewan97&layout=compact&theme=tokyonight"
+     alt="Top Languages"
+     style="
+        border-radius:20px;
+        filter: brightness(0.9);
+        width:100%;
+        max-width:720px;
+        box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+        transition: transform 0.3s ease, filter 0.3s ease;
+        cursor: pointer;
+     "
+     onmouseover="this.style.transform='scale(1.03)'; this.style.filter='brightness(1)';"
+     onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(0.9)';"
+     onerror="this.src='https://via.placeholder.com/720x200?text=Top+Languages+Unavailable'; this.style.filter='brightness(0.8)';"
+ />
 </div>
-
-
 
 
 ---
