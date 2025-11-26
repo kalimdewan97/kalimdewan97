@@ -5,10 +5,9 @@
 <!-- PREMIUM DARK MODE GITHUB PROFILE -->
 
 <h1 align="center" style="font-weight:700; font-size:40px; color:#00E5FF;">Hi, I'm Md. Kalim Ullah</h1>
-
 <h3 align="center" style="color:#ffffff;">Mobile App Developer | Flutter Specialist</h3>
 
-<p align="center" style="color:#bbbbbb;">
+<p align="center" style="color:#bbbbbb; max-width:700px; line-height:1.6;">
   I build fast, clean, and beautiful mobile applications using <b>Flutter</b> for both Android & iOS.<br>
   Passionate about elegant UI, smooth performance, and delightful user experiences.<br>
   Focused on modern design, clean architecture, and pixel-perfect execution.
@@ -16,66 +15,56 @@
 
 ---
 
-## Skills:
-### Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
+## 🌟 Skills
+<p align="center" style="color:#ffffff;">
+Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
+</p>
 
 ---
 
 ## 🌟 Tech Stack
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px; margin-bottom:20px;">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px; margin-bottom:25px;">
 
-<!-- Flutter -->
-<a href="#" title="Flutter" style="transition: transform 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" style="transition: transform 0.3s ease;" />
+<a href="#" title="Flutter" style="transition: transform 0.3s ease, filter 0.3s ease;">
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" style="transition: transform 0.3s ease, filter 0.3s ease;" />
 </a>
-
-<!-- Dart -->
-<a href="#" title="Dart" style="transition: transform 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=dart" height="50" style="transition: transform 0.3s ease;" />
+<a href="#" title="Dart" style="transition: transform 0.3s ease, filter 0.3s ease;">
+  <img src="https://skillicons.dev/icons?i=dart" height="50" />
 </a>
-
-<!-- MySQL -->
-<a href="#" title="MySQL" style="transition: transform 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" style="transition: transform 0.3s ease;" />
+<a href="#" title="MySQL" style="transition: transform 0.3s ease, filter 0.3s ease;">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
 </a>
-
-<!-- Python -->
-<a href="#" title="Python" style="transition: transform 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=python" height="50" style="transition: transform 0.3s ease;" />
+<a href="#" title="Python" style="transition: transform 0.3s ease, filter 0.3s ease;">
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
 </a>
-
-<!-- Django -->
-<a href="#" title="Django" style="transition: transform 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=django" height="50" style="transition: transform 0.3s ease;" />
+<a href="#" title="Django" style="transition: transform 0.3s ease, filter 0.3s ease;">
+  <img src="https://skillicons.dev/icons?i=django" height="50" />
 </a>
-
-<!-- React -->
-<a href="#" title="React" style="transition: transform 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=react" height="50" style="transition: transform 0.3s ease;" />
+<a href="#" title="React" style="transition: transform 0.3s ease, filter 0.3s ease;">
+  <img src="https://skillicons.dev/icons?i=react" height="50" />
 </a>
-
-<!-- HTML -->
-<a href="#" title="HTML" style="transition: transform 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=html" height="50" style="transition: transform 0.3s ease;" />
+<a href="#" title="HTML" style="transition: transform 0.3s ease, filter 0.3s ease;">
+  <img src="https://skillicons.dev/icons?i=html" height="50" />
 </a>
-
-<!-- CSS -->
-<a href="#" title="CSS" style="transition: transform 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=css" height="50" style="transition: transform 0.3s ease;" />
+<a href="#" title="CSS" style="transition: transform 0.3s ease, filter 0.3s ease;">
+  <img src="https://skillicons.dev/icons?i=css" height="50" />
 </a>
-
-<!-- Tailwind CSS -->
-<a href="#" title="Tailwind CSS" style="transition: transform 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" style="transition: transform 0.3s ease;" />
+<a href="#" title="Tailwind CSS" style="transition: transform 0.3s ease, filter 0.3s ease;">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
 </a>
 
 </div>
 
 <script>
-  // Add hover animation: scale icons slightly
-  document.querySelectorAll('a[title]').forEach(icon => {
-    icon.addEventListener('mouseenter', () => icon.style.transform = 'scale(1.2)');
-    icon.addEventListener('mouseleave', () => icon.style.transform = 'scale(1)');
+  document.querySelectorAll('div a img').forEach(icon => {
+    icon.addEventListener('mouseenter', () => {
+      icon.style.transform = 'scale(1.2)';
+      icon.style.filter = 'drop-shadow(0 0 10px #00E5FF)';
+    });
+    icon.addEventListener('mouseleave', () => {
+      icon.style.transform = 'scale(1)';
+      icon.style.filter = 'drop-shadow(0 0 0px #00E5FF)';
+    });
   });
 </script>
 
@@ -90,17 +79,15 @@
 ---
 
 ## 📬 Connect With Me
-<div align="center" style="display:flex; justify-content:center; gap:30px; margin-bottom:20px;">
+<div align="center" style="display:flex; justify-content:center; gap:30px; margin-bottom:25px;">
 
-<a href="https://github.com/kalimdewan97" title="GitHub" style="transition: transform 0.3s ease;">
+<a href="https://github.com/kalimdewan97" title="GitHub">
   <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
-
-<a href="https://www.linkedin.com/in/dewanporash97/" title="LinkedIn" style="transition: transform 0.3s ease;">
+<a href="https://www.linkedin.com/in/dewanporash97/" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
-
-<a href="https://www.facebook.com/dewanporash97" title="Facebook" style="transition: transform 0.3s ease;">
+<a href="https://www.facebook.com/dewanporash97" title="Facebook">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_(2019).png" height="50" />
 </a>
 
@@ -108,8 +95,14 @@
 
 <script>
   document.querySelectorAll('div a img').forEach(icon => {
-    icon.addEventListener('mouseenter', () => icon.style.transform = 'scale(1.15)');
-    icon.addEventListener('mouseleave', () => icon.style.transform = 'scale(1)');
+    icon.addEventListener('mouseenter', () => {
+      icon.style.transform = 'scale(1.15)';
+      icon.style.filter = 'drop-shadow(0 0 8px #00E5FF)';
+    });
+    icon.addEventListener('mouseleave', () => {
+      icon.style.transform = 'scale(1)';
+      icon.style.filter = 'drop-shadow(0 0 0px #00E5FF)';
+    });
   });
 </script>
 
