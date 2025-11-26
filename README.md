@@ -24,37 +24,38 @@
 ---
 
 ## 🌟 Tech Stack
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:space-between; gap:25px; margin-bottom:25px; text-decoration: none;">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px; margin-bottom:25px; text-decoration: none;">
 
-<a href="#" title="Flutter" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" style="transition: transform 0.3s ease, filter 0.3s ease;" />
-</a>
-<a href="#" title="Dart" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=dart" height="50" />
-</a>
-<a href="#" title="MySQL" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-</a>
-<a href="#" title="Python" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
-</a>
-<a href="#" title="Django" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=django" height="50" />
-</a>
-<a href="#" title="React" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=react" height="50" />
-</a>
-<a href="#" title="HTML" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=html" height="50" />
-</a>
-<a href="#" title="CSS" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=css" height="50" />
-</a>
-<a href="#" title="Tailwind CSS" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
-</a>
+  <a href="#" title="Flutter" style="text-decoration:none; display:flex; justify-content:center; align-items:center; padding:10px; transition: transform 0.3s ease, filter 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=flutter" height="50" style="transition: transform 0.3s ease, filter 0.3s ease;" />
+  </a>
+  <a href="#" title="Dart" style="text-decoration:none; display:flex; justify-content:center; align-items:center; padding:10px; transition: transform 0.3s ease, filter 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=dart" height="50" />
+  </a>
+  <a href="#" title="MySQL" style="text-decoration:none; display:flex; justify-content:center; align-items:center; padding:10px; transition: transform 0.3s ease, filter 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  </a>
+  <a href="#" title="Python" style="text-decoration:none; display:flex; justify-content:center; align-items:center; padding:10px; transition: transform 0.3s ease, filter 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=python" height="50" />
+  </a>
+  <a href="#" title="Django" style="text-decoration:none; display:flex; justify-content:center; align-items:center; padding:10px; transition: transform 0.3s ease, filter 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=django" height="50" />
+  </a>
+  <a href="#" title="React" style="text-decoration:none; display:flex; justify-content:center; align-items:center; padding:10px; transition: transform 0.3s ease, filter 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=react" height="50" />
+  </a>
+  <a href="#" title="HTML" style="text-decoration:none; display:flex; justify-content:center; align-items:center; padding:10px; transition: transform 0.3s ease, filter 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=html" height="50" />
+  </a>
+  <a href="#" title="CSS" style="text-decoration:none; display:flex; justify-content:center; align-items:center; padding:10px; transition: transform 0.3s ease, filter 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=css" height="50" />
+  </a>
+  <a href="#" title="Tailwind CSS" style="text-decoration:none; display:flex; justify-content:center; align-items:center; padding:10px; transition: transform 0.3s ease, filter 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+  </a>
 
-</div> 
+</div>
+
 
 
 ---
