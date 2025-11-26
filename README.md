@@ -25,35 +25,61 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 ## 🌟 Tech Stack
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px; margin-bottom:25px;">
 
+<!-- Flutter -->
 <a href="#" title="Flutter" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" style="transition: transform 0.3s ease, filter 0.3s ease;" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" style="transition: transform 0.3s ease, filter 0.3s ease;"/>
 </a>
+
+<!-- Dart -->
 <a href="#" title="Dart" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=dart" height="50" />
+  <img src="https://skillicons.dev/icons?i=dart" height="50"/>
 </a>
+
+<!-- MySQL -->
 <a href="#" title="MySQL" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 </a>
+
+<!-- Python -->
 <a href="#" title="Python" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
 </a>
+
+<!-- Django -->
 <a href="#" title="Django" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=django" height="50" />
+  <img src="https://skillicons.dev/icons?i=django" height="50"/>
 </a>
+
+<!-- React -->
 <a href="#" title="React" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=react" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" height="50"/>
 </a>
+
+<!-- HTML -->
 <a href="#" title="HTML" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=html" height="50" />
+  <img src="https://skillicons.dev/icons?i=html" height="50"/>
 </a>
+
+<!-- CSS -->
 <a href="#" title="CSS" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=css" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" height="50"/>
 </a>
+
+<!-- Tailwind CSS -->
 <a href="#" title="Tailwind CSS" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
 </a>
 
 </div>
+
+<script>
+  // Smooth hover scale for icons
+  document.querySelectorAll('div a img').forEach(icon => {
+    icon.addEventListener('mouseenter', () => icon.style.transform = 'scale(1.2)');
+    icon.addEventListener('mouseleave', () => icon.style.transform = 'scale(1)');
+  });
+</script>
+
 
 ---
 
