@@ -17,10 +17,34 @@
 
 ## 🌟 Tech Stack
 <div align="center">
-  
-| Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind |
-|--------|------|--------|--------|--------|--------|------|------|----------|
-  
+
+<!-- Flutter -->
+<img src="https://skillicons.dev/icons?i=flutter" height="50" title="Flutter" /> &nbsp;
+
+<!-- Dart -->
+<img src="https://skillicons.dev/icons?i=dart" height="50" title="Dart" /> &nbsp;
+
+<!-- MySQL -->
+<img src="https://skillicons.dev/icons?i=mysql" height="50" title="MySQL" /> &nbsp;
+
+<!-- Python -->
+<img src="https://skillicons.dev/icons?i=python" height="50" title="Python" /> &nbsp;
+
+<!-- Django -->
+<img src="https://skillicons.dev/icons?i=django" height="50" title="Django" /> &nbsp;
+
+<!-- React -->
+<img src="https://skillicons.dev/icons?i=react" height="50" title="React" /> &nbsp;
+
+<!-- HTML -->
+<img src="https://skillicons.dev/icons?i=html" height="50" title="HTML" /> &nbsp;
+
+<!-- CSS -->
+<img src="https://skillicons.dev/icons?i=css" height="50" title="CSS" /> &nbsp;
+
+<!-- Tailwind CSS -->
+<img src="https://skillicons.dev/icons?i=tailwind" height="50" title="Tailwind CSS" /> &nbsp;
+
 </div>
 
 ---
@@ -37,15 +61,15 @@
 <div align="center">
 
 <a href="https://github.com/kalimdewan97">
-<img src="https://skillicons.dev/icons?i=github" height="50" />
+<img src="https://skillicons.dev/icons?i=github" height="50" title="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/dewanporash97/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" title="LinkedIn" />
 </a>
 
 <a href="https://www.facebook.com/dewanporash97">
-<img src="https://skillicons.dev/icons?i=facebook" height="50" />
+<img src="https://skillicons.dev/icons?i=facebook" height="50" title="Facebook" />
 </a>
 
 </div>
