@@ -137,10 +137,7 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 
 ---
 
-## 🌌 Metrics (Dark Mode)
-<div align="center">
-![Metrics](https://metrics.lecoq.io/kalimdewan97?template=classic&config.timezone=Asia/Dhaka)
-</div>
+## 🌌 Metrics (Dark Mode) <div align="center"> ![Metrics](https://metrics.lecoq.io/kalimdewan97?template=classic&config.timezone=Asia/Dhaka) </div>
 
 ---
 
