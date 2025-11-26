@@ -96,9 +96,27 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 ---
 
 ## 🏅 GitHub Trophies
-<div align="center">
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=kalimdewan97&theme=tokyonight&no-bg=true&margin-w=10)
+<div align="center" style="margin-bottom:30px;">
+
+<!-- Smooth GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=kalimdewan97&theme=tokyonight&no-bg=true&margin-w=10"
+     alt="GitHub Trophies"
+     style="
+        border-radius:20px;
+        filter: brightness(0.9);
+        width:100%;
+        max-width:720px;
+        box-shadow: 0 8px 25px rgba(0,0,0,0.5);
+        transition: transform 0.3s ease, filter 0.3s ease;
+        cursor: pointer;
+     "
+     onmouseover="this.style.transform='scale(1.03)'; this.style.filter='brightness(1)';"
+     onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(0.9)';"
+     onerror="this.src='https://via.placeholder.com/720x200?text=GitHub+Trophies+Unavailable'; this.style.filter='brightness(0.8)';"
+ />
+
 </div>
+
 
 ---
 
@@ -107,29 +125,7 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimdewan97&layout=compact&theme=tokyonight)
 </div>
 
----
 
-## 📈 GitHub Stats
-<div align="center" style="margin-bottom:30px;">
-
-<!-- Smooth and error-safe GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=kalimdewan97&show_icons=true&theme=tokyonight&count_private=true"
-     alt="GitHub Stats"
-     style="
-        border-radius:20px;
-        filter: brightness(0.85);
-        width:100%;
-        max-width:720px;
-        box-shadow: 0 8px 20px rgba(0,0,0,0.5);
-        transition: transform 0.3s ease, filter 0.3s ease;
-        cursor: pointer;
-     "
-     onerror="this.onerror=null; this.src='https://via.placeholder.com/720x300?text=GitHub+Stats+Unavailable'; this.style.filter='brightness(0.8)';"
-     onmouseover="this.style.transform='scale(1.03)'; this.style.filter='brightness(0.95)';"
-     onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(0.85)';"
-/>
-
-</div>
 
 
 ---
