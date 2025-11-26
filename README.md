@@ -4,10 +4,10 @@
 
 <!-- PREMIUM DARK MODE GITHUB PROFILE -->
 
-<h1 align="center" style="font-weight:700; font-size:40px; color:#00E5FF;">Hi, I'm Md. Kalim Ullah</h1>
-<h3 align="center" style="color:#ffffff;">Mobile App Developer | Flutter Specialist</h3>
+<h1 align="left" style="font-weight:700; font-size:40px; color:#00E5FF;">Hi, I'm Md. Kalim Ullah</h1>
+<h3 align="left" style="color:#ffffff;">Mobile App Developer | Flutter Specialist</h3>
 
-<p align="center" style="color:#bbbbbb; max-width:700px; line-height:1.6;">
+<p align="justify" style="color:#bbbbbb; max-width:700px; line-height:1.6;">
   I build fast, clean, and beautiful mobile applications using <b>Flutter</b> for both Android & iOS.<br>
   Passionate about elegant UI, smooth performance, and delightful user experiences.<br>
   Focused on modern design, clean architecture, and pixel-perfect execution.
@@ -16,7 +16,7 @@
 ---
 
 ## 🌟 Skills
-<p align="center" style="color:#ffffff;">
+<p align="justify" style="color:#ffffff;">
 Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 </p>
 
