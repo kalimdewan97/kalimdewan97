@@ -55,19 +55,6 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 
 </div>
 
-<script>
-  document.querySelectorAll('div a img').forEach(icon => {
-    icon.addEventListener('mouseenter', () => {
-      icon.style.transform = 'scale(1.2)';
-      icon.style.filter = 'drop-shadow(0 0 10px #00E5FF)';
-    });
-    icon.addEventListener('mouseleave', () => {
-      icon.style.transform = 'scale(1)';
-      icon.style.filter = 'drop-shadow(0 0 0px #00E5FF)';
-    });
-  });
-</script>
-
 ---
 
 ## 🔥 About Me
@@ -92,19 +79,6 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 </a>
 
 </div>
-
-<script>
-  document.querySelectorAll('div a img').forEach(icon => {
-    icon.addEventListener('mouseenter', () => {
-      icon.style.transform = 'scale(1.15)';
-      icon.style.filter = 'drop-shadow(0 0 8px #00E5FF)';
-    });
-    icon.addEventListener('mouseleave', () => {
-      icon.style.transform = 'scale(1)';
-      icon.style.filter = 'drop-shadow(0 0 0px #00E5FF)';
-    });
-  });
-</script>
 
 ---
 
