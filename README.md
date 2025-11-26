@@ -132,8 +132,14 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 
 ## 🚀 Contribution Heatmap (Premium)
 <div align="center">
-  ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/kalimdewan97/contributions?format=svg&private=true)
+
+<!-- Fallback to a placeholder image if Vaunt API fails -->
+<img src="https://via.placeholder.com/600x150?text=Contribution+Heatmap+Unavailable" 
+     alt="Contribution Heatmap" 
+     style="border-radius:10px; filter:brightness(0.8); width:100%; max-width:600px;"/>
+
 </div>
+
 
 ---
 
