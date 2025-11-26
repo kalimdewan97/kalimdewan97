@@ -69,9 +69,9 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" title="LinkedIn" />
 </a>
 <a href="https://www.facebook.com/dewanporash97">
-<img src="https://skillicons.dev/icons?i=facebook" height="50" title="Facebook" />
+<a href="https://www.facebook.com/dewanporash97">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_(2019).png" height="50" title="Facebook" />
 </a>
-
 </div>
 
 ---
