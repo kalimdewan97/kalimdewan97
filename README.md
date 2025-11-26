@@ -54,7 +54,10 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 </a>
 
 </div> 
+
+
 ---
+
 
 ## 🔥 About Me
 - 🏢 Working at a **Life Insurance Company**  
