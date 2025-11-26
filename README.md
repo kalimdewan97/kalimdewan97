@@ -119,7 +119,7 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 ## 🔥 Streak Stats
 <div align="center" style="margin-bottom:30px;">
 
-<!-- Smooth Streak Stats with hover effect and error handling -->
+<!-- Smooth and error-safe Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=kalimdewan97&theme=tokyonight-duo&hide_border=true"
      alt="GitHub Streak"
      style="
@@ -131,13 +131,15 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
         transition: transform 0.3s ease, filter 0.3s ease;
         cursor: pointer;
      "
+     onerror="this.onerror=null; this.src='https://via.placeholder.com/720x160?text=Streak+Stats+Unavailable'; this.style.filter='brightness(0.8)';"
      onmouseover="this.style.transform='scale(1.03)'; this.style.filter='brightness(0.95)';"
      onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(0.85)';"
-     onerror="this.src='https://via.placeholder.com/720x160?text=Streak+Stats+Unavailable'; this.style.filter='brightness(0.8)';"
- />
+/>
 
+<p style="color:#bbbbbb; font-size:0.9rem; margin-top:5px;">Hover to see a subtle zoom effect ✨</p>
 
 </div>
+
 
 
 ---
