@@ -18,34 +18,36 @@
 ## 🌟 Tech Stack
 <div align="center">
 
-<!-- Flutter -->
-<img src="https://skillicons.dev/icons?i=flutter" height="50" title="Flutter" /> &nbsp;
-
-<!-- Dart -->
-<img src="https://skillicons.dev/icons?i=dart" height="50" title="Dart" /> &nbsp;
-
-<!-- MySQL -->
-<img src="https://skillicons.dev/icons?i=mysql" height="50" title="MySQL" /> &nbsp;
-
-<!-- Python -->
-<img src="https://skillicons.dev/icons?i=python" height="50" title="Python" /> &nbsp;
-
-<!-- Django -->
-<img src="https://skillicons.dev/icons?i=django" height="50" title="Django" /> &nbsp;
-
-<!-- React -->
-<img src="https://skillicons.dev/icons?i=react" height="50" title="React" /> &nbsp;
-
-<!-- HTML -->
-<img src="https://skillicons.dev/icons?i=html" height="50" title="HTML" /> &nbsp;
-
-<!-- CSS -->
-<img src="https://skillicons.dev/icons?i=css" height="50" title="CSS" /> &nbsp;
-
-<!-- Tailwind CSS -->
-<img src="https://skillicons.dev/icons?i=tailwind" height="50" title="Tailwind CSS" /> &nbsp;
+<a href="#" title="Flutter">
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" style="margin: 10px;" />
+</a>
+<a href="#" title="Dart">
+  <img src="https://skillicons.dev/icons?i=dart" height="50" style="margin: 10px;" />
+</a>
+<a href="#" title="MySQL">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin: 10px;" />
+</a>
+<a href="#" title="Python">
+  <img src="https://skillicons.dev/icons?i=python" height="50" style="margin: 10px;" />
+</a>
+<a href="#" title="Django">
+  <img src="https://skillicons.dev/icons?i=django" height="50" style="margin: 10px;" />
+</a>
+<a href="#" title="React">
+  <img src="https://skillicons.dev/icons?i=react" height="50" style="margin: 10px;" />
+</a>
+<a href="#" title="HTML">
+  <img src="https://skillicons.dev/icons?i=html" height="50" style="margin: 10px;" />
+</a>
+<a href="#" title="CSS">
+  <img src="https://skillicons.dev/icons?i=css" height="50" style="margin: 10px;" />
+</a>
+<a href="#" title="Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" style="margin: 10px;" />
+</a>
 
 </div>
+
 
 ---
 
