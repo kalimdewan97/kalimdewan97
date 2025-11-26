@@ -22,38 +22,7 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 
 ---
 
-## 🌟 Tech Stack
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px; margin-bottom:25px;">
-
-<a href="#" title="Flutter" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" style="transition: transform 0.3s ease, filter 0.3s ease;" />
-</a>
-<a href="#" title="Dart" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=dart" height="50" />
-</a>
-<a href="#" title="MySQL" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-</a>
-<a href="#" title="Python" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
-</a>
-<a href="#" title="Django" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=django" height="50" />
-</a>
-<a href="#" title="React" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=react" height="50" />
-</a>
-<a href="#" title="HTML" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=html" height="50" />
-</a>
-<a href="#" title="CSS" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=css" height="50" />
-</a>
-<a href="#" title="Tailwind CSS" style="transition: transform 0.3s ease, filter 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
-</a>
-
-</div> 
+## 🌟 Tech Stack <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px; margin-bottom:25px;"> <a href="#" title="Flutter" style="transition: transform 0.3s ease, filter 0.3s ease;"> <img src="https://skillicons.dev/icons?i=flutter" height="50" style="transition: transform 0.3s ease, filter 0.3s ease;" /> </a> <a href="#" title="Dart" style="transition: transform 0.3s ease, filter 0.3s ease;"> <img src="https://skillicons.dev/icons?i=dart" height="50" /> </a> <a href="#" title="MySQL" style="transition: transform 0.3s ease, filter 0.3s ease;"> <img src="https://skillicons.dev/icons?i=mysql" height="50" /> </a> <a href="#" title="Python" style="transition: transform 0.3s ease, filter 0.3s ease;"> <img src="https://skillicons.dev/icons?i=python" height="50" /> </a> <a href="#" title="Django" style="transition: transform 0.3s ease, filter 0.3s ease;"> <img src="https://skillicons.dev/icons?i=django" height="50" /> </a> <a href="#" title="React" style="transition: transform 0.3s ease, filter 0.3s ease;"> <img src="https://skillicons.dev/icons?i=react" height="50" /> </a> <a href="#" title="HTML" style="transition: transform 0.3s ease, filter 0.3s ease;"> <img src="https://skillicons.dev/icons?i=html" height="50" /> </a> <a href="#" title="CSS" style="transition: transform 0.3s ease, filter 0.3s ease;"> <img src="https://skillicons.dev/icons?i=css" height="50" /> </a> <a href="#" title="Tailwind CSS" style="transition: transform 0.3s ease, filter 0.3s ease;"> <img src="https://skillicons.dev/icons?i=tailwind" height="50" /> </a> </div>
 
 
 ---
