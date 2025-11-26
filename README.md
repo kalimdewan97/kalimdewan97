@@ -131,15 +131,28 @@ Flutter | Dart | MySQL | Python | Django | React | HTML | CSS | Tailwind CSS
 ---
 
 ## 🚀 Contribution Heatmap (Premium)
-<div align="center">
+<div align="center" style="margin-bottom:30px;">
 
-<!-- Smooth fallback for contribution heatmap -->
+<!-- Smooth, smart heatmap with hover effect and fallback -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalimdewan97&theme=tokyo-night&hide_border=true"
      alt="Contribution Heatmap"
-     style="border-radius:15px; filter:brightness(0.85); width:100%; max-width:700px; box-shadow: 0 4px 15px rgba(0,0,0,0.5); transition: transform 0.3s ease;"
-     onerror="this.src='https://via.placeholder.com/700x150?text=Contribution+Heatmap+Unavailable'; this.style.filter='brightness(0.8)';" />
+     style="
+        border-radius:20px;
+        filter: brightness(0.85);
+        width:100%;
+        max-width:720px;
+        box-shadow: 0 8px 20px rgba(0,0,0,0.6);
+        transition: transform 0.3s ease, filter 0.3s ease;
+        cursor: pointer;
+     "
+     onmouseover="this.style.transform='scale(1.03)'; this.style.filter='brightness(0.95)';"
+     onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(0.85)';"
+     onerror="this.src='https://via.placeholder.com/720x160?text=Contribution+Heatmap+Unavailable'; this.style.filter='brightness(0.8)';" 
+/>
+<p style="color:#bbbbbb; font-size:0.9rem; margin-top:5px;">Hover to see a subtle zoom effect ✨</p>
 
 </div>
+
 
 
 
