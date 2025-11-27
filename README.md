@@ -7,9 +7,7 @@
 <h3 align="left" style="color:#ffffff;">Mobile App Developer | Flutter Specialist</h3>
 
 <p align="justify" style="color:#bbbbbb; max-width:700px; line-height:1.6;">
-  I build fast, clean, and beautiful mobile applications using <b>Flutter</b> for both Android & iOS.<br>
-  Passionate about elegant UI, smooth performance, and delightful user experiences.<br>
-  Focused on modern design, clean architecture, and pixel-perfect execution.
+ I build fast, clean, and beautiful mobile applications using Flutter for both Android and iOS platforms. Passionate about crafting elegant UI, smooth performance, and delightful user experiences. Strong focus on modern design principles, clean architecture, and pixel-perfect implementation to deliver high-quality mobile apps efficiently and reliably.
 </p>
 
 ---
