@@ -71,9 +71,6 @@
 <a href="https://github.com/kalimdewan97" title="GitHub">
   <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
-<a href="https://www.linkedin.com/in/dewanporash97/" title="LinkedIn">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
 <a href="https://www.facebook.com/dewanporash97" title="Facebook">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_(2019).png" height="50" />
 </a>
